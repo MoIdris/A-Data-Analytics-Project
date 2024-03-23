@@ -154,18 +154,60 @@ Here, you need to recursively install all the necessary packages to be imported 
 
 ### Usage
 
-To run the project, execute the following command:
+To view this analysis, visit the page (https://github.com/MoIdris/Project-on-Data-Analysis)
+
+To download the notebook, execute the following steps:
 
 
-```sh
-    streamlit run 1_🏠_Home.py
+- Navigate to the GitHub page (https://github.com/MoIdris/Project-on-Data-Analysis).
+- Click on the notebook file name to open it.
+- Once the file is open, you will see a Raw button on the top right of the file content. Click on this Raw button.
+- The notebook content will be displayed in raw JSON format. Right-click anywhere on the page and select Save As or press Ctrl+S to save the file.
+- In the Save dialog box, make sure to add the .ipynb extension to the file name if it’s not already there. For example, if the file name is notebook, change it to notebook.ipynb.
+- Choose the location where you want to save the file and click Save.
+- Now, you can open this .ipynb file using Jupyter Notebook on your local machine.
+- **Please note** that the file might be saved as a .txt file by default, so ensure that you change the extension to .ipynb when saving
 
-```
+## Data Cleaning
 
-- A webpage opens up to view the app
-- Login to the app with `username=coderacheal` and `password:123456`
-- Finally test a prediction by clicking on the predicitons page
-- **Note**: Users may not be able to access the View Data page as the secrets file is not checked into git
+The data used in this analysis was sourced from three different sources, github, sql server and onedrive, a connection was created with a connection string defined in the '.env' file
+
+1. Data Collection: Gathering raw data from online database.
+
+2. Data Integration: Consolidating data from different sources into a unified dataset.
+
+3. Missing Value Handling: Identifying and dealing with missing values through imputation or removal.
+
+4. Outlier Detection: Detecting and handling outliers that could skew the analysis results.
+
+5. Normalization and Standardization: Ensuring consistency and comparability of data by normalizing or standardizing where necessary.
+
+6. Data Validation: Verifying the integrity of the cleaned dataset to ensure accuracy in subsequent analyses.
+
+## Data Representation
+
+The cleaned data was represented in structured formats suitable for analysis. This included organizing data into tables and saving the unified dataset as a single '.csv' file. Visualization techniques such as charts, graphs, and maps were also employed to present key findings effectively.
+
+## Analysis Methods
+
+Various analytical methods and techniques were utilized to extract insights from the data:
+
+1. Descriptive Statistics: Summarizing key metrics such as mean, median, mode, and standard deviation to describe the central tendency and dispersion of variables.
+2. Time-Series Analysis: Examining trends and patterns over time to understand the evolution of the startup ecosystem.
+3. Correlation Analysis: Investigating relationships between different variables, such as funding amount and startup success rate.
+4. Segmentation Analysis: Grouping startups based on common characteristics (e.g., sector, funding stage) and analyzing each segment separately.
+5. Predictive Modeling: Building predictive models to forecast future trends or identify factors influencing startup performance.
+
+## Final Findings
+
+Based on the analysis conducted, several key findings emerged:
+
+1. Sectoral Trends: Identification of sectors experiencing rapid growth and emerging as key drivers of the Indian startup ecosystem.
+2. Funding Patterns: Insights into the sources and distribution of funding across different stages of startup development.
+3. Geographical Insights: Understanding regional variations in startup activity and investment flows within India.
+4. Success Factors: Identification of factors correlated with startup success, including funding amount, team composition, and market positioning.
+5. Challenges and Opportunities: Highlighting challenges faced by startups and opportunities for intervention and support from stakeholders.
+
 
 <!-- AUTHORS -->
 
@@ -173,9 +215,9 @@ To run the project, execute the following command:
 
 🕵🏽‍♀️ **Mohammed Idris**
 
-- GitHub: [GitHub Profile](https://github.com/coderacheal)
-- Twitter: [Twitter Handle](https://twitter.com/racheal_kubi)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/racheal-appiah-kubi/)
+- GitHub: [GitHub Profile](https://github.com/MoIdris)
+- Twitter: [Twitter Handle](https://twitter.com/IdrisBaaba)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/idris-ibn-mohammed)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
