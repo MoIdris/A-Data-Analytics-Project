@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [Attrition Insight ](#attrition-insight-)
+- [Introduction ](#introduction-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Analysing the Funding in the Indian Start-up ecosystem <a name="about-project"></a>
+# Introduction <a name="about-project"></a>
 
 The success of a start-up is heavily reliant on ideas, innovation, and execution. However, these alone may not be sufficient. It the financial backing or “funding” from investors that enables or allows start-ups and other entrepreneurial projects with great aspirations to dream big, achieve wealth, and make a significant impacts. In this project, I will be investigating the funding that start-ups in India received from investors from the year 2018 to 2021. The dataset provided includes separate csv files for each year’s funding data. These files contain details about the start-ups, the funding they received, and the investors informations.
 
@@ -46,6 +46,10 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 - Founders: Founders of the Company
 
 - Investor: Investors
+
+- City: Location of the Company
+
+- Year: Year of Funding
 
 - Amount($): Raised fund
 
@@ -66,9 +70,9 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 <summary>Language</summary>
   <ul>
     <li><a href="">Python</a></li>
+    <li><a href="">Jupyter Notebook</a></li>
   </ul>
 </details>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- Features -->
@@ -86,8 +90,6 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 ![image](https://github.com/coderacheal/Attrition-Meter/assets/97846040/eb717bf3-d42b-4005-8080-276b69f08167)
 
 ![image](https://github.com/coderacheal/Attrition-Insight/assets/97846040/a0f9bf95-b847-4a9b-963b-8d875a0b0fc1)
-
-
 
 
 <!-- GETTING STARTED -->
@@ -226,7 +228,7 @@ Based on the analysis conducted, several key findings emerged:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **Develop a model for this analysis**
+- **Develop a model for this project**
   
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
