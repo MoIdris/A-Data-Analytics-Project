@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-   <h1><b>Analysing the Funding in the Indian Start-up ecosystem</b></h1>
+   <h1><b>Analysing Funding in the Indian Startup Ecosystem</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
