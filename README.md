@@ -113,13 +113,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/MoIdris/Project-on-Data-Analysis.git
+  git clone https://github.com/MoIdris/A-Data-Analytics-Project.git
 ```
 
 Change into the cloned repository
 
 ```sh
-  cd Project-on-Data-Analysis
+  cd A-Data-Analytics-Project
   
 ```
 
@@ -156,12 +156,12 @@ Here, you need to recursively install all the necessary packages to be imported 
 
 ### Usage
 
-To view this analysis, visit the page (https://github.com/MoIdris/Project-on-Data-Analysis)
+To view this analysis, visit the page (https://github.com/MoIdris/A-Data-Analytics-Project)
 
 To download the notebook, execute the following steps:
 
 
-- Navigate to the GitHub page (https://github.com/MoIdris/Project-on-Data-Analysis).
+- Navigate to the GitHub page (https://github.com/MoIdris/A-Data-Analytics-Project).
 - Click on the notebook file name to open it.
 - Once the file is open, you will see a Raw button on the top right of the file content. Click on this Raw button.
 - The notebook content will be displayed in raw JSON format. Right-click anywhere on the page and select Save As or press Ctrl+S to save the file.
