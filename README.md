@@ -79,19 +79,15 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 
 ## Key Features <a name="key-features"></a>
 
-- **A data application that presents visualizations on both the exploratory data and the KPIs**
-- **A predicitons page to predict by specifying the model you want to use**
-- **View proprietory data loaded in real-time form the remote server**
-- **Predictions are save for further analysis in the future and users can view the history of their prediction input values**
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![image](![alt text](image-3.png))
+![alt text](image-3.png)
 
-![image](![alt text](image-1.png))
+![alt text](image-1.png)
 
-![image](![alt text](image-2.png))
+![alt text](image-2.png)
+
+![alt text](image-4.png)
 
 
 
