@@ -92,6 +92,8 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 ![image](https://github.com/coderacheal/Attrition-Insight/assets/97846040/a0f9bf95-b847-4a9b-963b-8d875a0b0fc1)
 
 
+![alt text](image.png)
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
