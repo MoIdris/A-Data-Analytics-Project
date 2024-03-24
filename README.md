@@ -90,7 +90,6 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 ![alt text](image-4.png)
 
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
