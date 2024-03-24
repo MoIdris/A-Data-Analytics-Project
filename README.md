@@ -87,12 +87,13 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![image](https://cdn-images-1.medium.com/max/1000/1*_i9fyGV6KIpCYypH_fZ3cQ.png)
+![image](![alt text](image-3.png))
 
-![image](https://github.com/coderacheal/Attrition-Insight/assets/97846040/a0f9bf95-b847-4a9b-963b-8d875a0b0fc1)
+![image](![alt text](image-1.png))
+
+![image](![alt text](image-2.png))
 
 
-![alt text](image.png)
 
 <!-- GETTING STARTED -->
 
