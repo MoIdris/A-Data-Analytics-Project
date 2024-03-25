@@ -81,10 +81,10 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-1. Business Understanding
+1. Business Understanding:
 This is the initial phase where I define the business problem, objectives, and outcomes. I also identified the key stakeholders and understand their expectations.
 
-2. Data Understanding
+2. Data Understanding:
 This phase involves the following steps:
 
 - Importation: Acquiring the necessary data for the project.
@@ -93,19 +93,19 @@ This phase involves the following steps:
 - Hypothesis: Formulating hypotheses that I will test during the analysis.
 - Business Questions: Identifying the key questions that the business needs answers to.
 
-3. Data Preprocessing
+3. Data Preprocessing:
 This phase involves preparing the data for analysis. This could include data cleaning, data transformation, and data integration.
 
-4. Data Cleaning
+4. Data Cleaning:
 This phase involves identifying and correcting errors in the data, dealing with missing values, and removing duplicates.
 
-5. Hypothesis Testing
+5. Hypothesis Testing:
 This phase involves testing the hypotheses that were formulated during the data understanding phase. This could involve statistical tests to determine if there is a significant relationship between variables.
 
-6. Exploratory Data Analysis (EDA)
+6. Exploratory Data Analysis (EDA):
 This phase involves exploring the data to understand its characteristics and patterns. This could involve visualizing the data, calculating descriptive statistics, and identifying correlations.
 
-7. Analysis of Business Questions
+7. Analysis of Business Questions:
 This phase involves using the insights gained from the EDA and hypothesis testing to answer the business questions identified earlier. This could involve building predictive trends, segmenting the data, or conducting further statistical tests.
 
 
