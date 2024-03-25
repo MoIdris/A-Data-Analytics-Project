@@ -87,11 +87,12 @@ This is the initial phase where I define the business problem, objectives, and o
 2. Data Understanding
 This phase involves the following steps:
 
-Importation: Acquiring the necessary data for the project.
-Data Loading: Loading the data into a suitable format for analysis.
-Action Plan: Creating a plan for how to approach the data analysis.
-Hypothesis: Formulating hypotheses that I will test during the analysis.
-Business Questions: Identifying the key questions that the business needs answers to.
+- Importation: Acquiring the necessary data for the project.
+- Data Loading: Loading the data into a suitable format for analysis.
+- Action Plan: Creating a plan for how to approach the data analysis.
+- Hypothesis: Formulating hypotheses that I will test during the analysis.
+- Business Questions: Identifying the key questions that the business needs answers to.
+
 3. Data Preprocessing
 This phase involves preparing the data for analysis. This could include data cleaning, data transformation, and data integration.
 
