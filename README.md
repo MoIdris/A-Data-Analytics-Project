@@ -83,6 +83,7 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 
 
 ![alt text](image.png)
+![alt text](image.png)
 
 ![alt text](image-1.png)
 
