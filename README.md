@@ -4,6 +4,8 @@
    <h1><b>Analysing Funding in the Indian Startup Ecosystem</b></h1>
 </div>
 
+Below is a summary of the procedure structure on this project. To view a full project documentation, kindly visit this page (https://medium.com/@idmoh44/a-data-analytics-project-analysing-funding-in-the-indian-startup-ecosystem-6ad35bca9938)
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -237,6 +239,7 @@ Based on the analysis conducted, several key findings emerged:
 - GitHub: [GitHub Profile](https://github.com/MoIdris)
 - Twitter: [Twitter Handle](https://twitter.com/IdrisBaaba)
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/idris-ibn-mohammed)
+- Medium: [Medium Profile](https://medium.com/@idmoh44)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
