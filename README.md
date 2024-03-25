@@ -81,13 +81,14 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![alt text](image-3.png)
+
+![alt text](image.png)
 
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
 
-![alt text](image-4.png)
+![alt text](image-3.png)
 
 
 <!-- GETTING STARTED -->
