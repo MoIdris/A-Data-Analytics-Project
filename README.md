@@ -81,7 +81,7 @@ The purpose of this project is to try and venture into the Indian start-up ecosy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Business Understanding
+1. Business Understanding
 This is the initial phase where I define the business problem, objectives, and outcomes. I also identified the key stakeholders and understand their expectations.
 
 2. Data Understanding
