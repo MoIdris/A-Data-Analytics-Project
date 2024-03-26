@@ -275,7 +275,7 @@ If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all my team member for their coorperation, commitment and support. My greatest appreciation goes to Viollete and Rahael for their immense guidance and support. Thank you to all the free available resource made available online
+I would like to thank all my team member for their coorperation, commitment and support. My greatest appreciation goes to Viollete and Rahael for their immense guidance and support.Thanks to all online contributors for the available resources.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
